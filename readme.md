@@ -29,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution](https://github.com/Solataiwo-15/product-preview-card-component)
-- Live Site URL: [Live Site](https://social-links-profile-ten-flame.vercel.app/)
+- Live Site URL: [Live Site](https://product-preview-card-component-sooty-eight.vercel.app/)
 
 ## My process
 
